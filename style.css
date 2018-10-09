@@ -39,4 +39,8 @@ img
 	float: left;
 	width: 33.33%;
 }
+.row{
+	float: right;
+	width: 50%
+}
 	
