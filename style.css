@@ -35,4 +35,8 @@ img
 	background-color: #ddd;
 	color: black;
 }
+.column{
+	float: left;
+	width: 33.33%;
+}
 	
