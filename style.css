@@ -48,4 +48,18 @@ img
 	float: right;
 	width: 50%
 }
-	
+.footer{
+	background-color: #F1F1F1; 
+}
+@media screen and (max-width: 600 px) {
+	.column.side, .column.middle {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 800px) {
+	.leftcolumn, .rightcolumn {\
+		width: 100%;
+		padding: 0;
+	}
+}
+
